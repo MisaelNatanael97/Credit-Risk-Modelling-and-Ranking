@@ -16,6 +16,6 @@ Some highlights in this project report:
 - Predictive model: Logistic Regression, XGBoost, LightGBM
 - Risk ranking to help lenders to make decision
 
-Just open the [credit-risk.ipynb](https://github.com/MisaelNatanael97/Credit-Risk-Modelling-and-Ranking/blob/main/credit-risk.ipynb) file (can be accessed via Google Colab).
+Just open the [credit-risk.ipynb](https://github.com/MisaelNatanael97/Credit-Risk-Modelling-and-Ranking/blob/master/credit-risk.ipynb) file (can be accessed via Google Colab).
 
 Don't forget to download the csv files to your working directory.
